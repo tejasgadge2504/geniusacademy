@@ -16,3 +16,11 @@
     }
     
 }
+
+
+@media (max-width: 768px) {
+    .hero-content h1 {
+        text-align: center !important;
+        margin-top: 25px !important;
+    }
+}

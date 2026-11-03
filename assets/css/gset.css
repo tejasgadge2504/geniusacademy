@@ -9,6 +9,10 @@
     text-align: center;
 }
 
+.gset_list span {
+  color: #212;
+}
+
 .banner img {
    display: block;
    margin-left: auto;
@@ -89,7 +93,7 @@
 }
 
 #Gset_red{
-    color: red;
+    color: rgb(255, 0, 0);
 }
 
 .gset_list{
@@ -109,6 +113,7 @@
 
 .details{
     text-align: center;
+    color: #212;
 }
 
 

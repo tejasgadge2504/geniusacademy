@@ -28,6 +28,8 @@ body {
   /* margin-right: 200px; */
   flex-direction: column;
   /* margin-bottom: 75px; */
+
+  color: black;
 }
 .mission-vision{
     display: flex;
@@ -71,6 +73,8 @@ body {
   .subHeading{
     /* color: var(--light_pink); */
     color: rgb(233, 55, 85);
+
+
 }
 
 @media (max-width: 575px) {
