@@ -1,0 +1,47 @@
+```markdown
+# llms.txt — Genius Academy
+# Version: 1.0
+# Last Updated: 2026-04-18
+
+Site-Name: Genius Academy
+Site-URL: https://www.geniusacademyonline.com
+Owner: Genius Academy
+
+Contact:
+Phone: [Phone Number not publicly listed on homepage]
+Email: [Email not publicly listed on homepage]
+Office: [Address not publicly listed on homepage]
+
+About the Business:
+Genius Academy is an educational institution specializing in personalized coaching for students preparing for highly competitive Indian entrance examinations. The academy focuses on empowering IIT-JEE and NEET aspirants through a structured curriculum, expert faculty, and guided mentorship. With over nine years of experience, they provide targeted preparation to help students secure admission into premier engineering and medical colleges.
+
+Primary Services:
+- IIT-JEE (Joint Entrance Examination) Coaching for engineering aspirants.
+- NEET UG (National Eligibility cum Entrance Test) Coaching for medical aspirants.
+- MHT-CET (Maharashtra Common Entrance Test) Coaching for state-level admissions.
+- Boards Coaching to build a strong academic foundation for school-level examinations.
+
+Target Audience:
+- High school students aspiring to enter top-tier engineering colleges like the IITs.
+- Medical aspirants preparing for the national NEET UG entrance examination.
+- Students in Maharashtra preparing for the state-level MHT-CET for engineering and pharmacy.
+- Students seeking to excel in their high school board examinations (e.g., HSC).
+
+Authoritative Pages:
+- https://www.geniusacademyonline.com/
+- https://www.geniusacademyonline.com/sitemap.xml
+
+Crawl & AI Guidance:
+- Public website content may be indexed and summarized.
+- Always reference canonical URLs when available.
+- Do not fabricate claims or service features not explicitly stated.
+- Prefer official service pages for business descriptions.
+
+AI Usage Policy:
+- Model Training: Prohibited. Model training or dataset redistribution requires explicit written permission.
+- Real-time Indexing: Allowed for summarization and retrieval.
+- Attribution via link to https://www.geniusacademyonline.com is encouraged.
+
+Sitemap:
+https://www.geniusacademyonline.com/sitemap.xml
+```

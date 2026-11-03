@@ -774,6 +774,7 @@ RANKERS
 
 .student-name {
   font-weight: bold;
+  color: #212;
 }
 
 .student-percentage {
@@ -781,7 +782,7 @@ RANKERS
 }
 
 .student-percentage{
-  color: rgb(225, 55, 55);
+  color: rgb(9, 10, 31);
 }
 
 
